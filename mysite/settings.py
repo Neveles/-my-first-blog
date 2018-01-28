@@ -25,7 +25,7 @@ SECRET_KEY = 'ypy*l^he6t$@v@yju*f)e*mtl=(d&&v5sigca#)42@7z+3%q@o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Neveles1>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', "neveles1.pythonanywhere.com"]
 
 
 # Application definition
